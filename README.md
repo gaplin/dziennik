@@ -20,16 +20,15 @@ Simple gradeBook
 * password - email in reverse
 * For Example:
   * Students
-    * Shad@<span>eric.io</span>    oi.cire@dahS
-    * Mark@<span>jace.ca</span>    ac.ecaj@kraM
+    * Shad@<span>eric.io</span>&emsp; oi.cire@dahS
+    * Mark@<span>jace.ca</span>&emsp; ac.ecaj@kraM
   * Teachers
-    * kazik123@<span>op.pl</span>    lp.po@321kizak
-    * Sadye@<span>niko.biz</span>    zib.okin@eydaS
-    * Adrain@<span>nella.name</span> eman.allen@niardA
+    * kazik123@<span>op.pl</span>&emsp; lp.po@321kizak
+    * Sadye@<span>niko.biz</span>&emsp; zib.okin@eydaS
+    * Adrain@<span>nella.name</span>&emsp; eman.allen@niardA
   * Parents
-    * Brad@<span>luna.io</span>    oi.anul@darB
-    * Fletcher_Legros@<span>aryanna.net</span>    ten.annayra@sorgeL_rehctelF
-
+    * Brad@<span>luna.io</span>&emsp; oi.anul@darB
+    * Fletcher_Legros@<span>aryanna.net</span>&emsp; ten.annayra@sorgeL_rehctelF
 
 
 
